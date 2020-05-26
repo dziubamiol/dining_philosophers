@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mishadziuba/Documents/University/UNIX/Labs/dining_philosophers_v1/main.cpp
+iostream
+-
+mutex
+-
+thread
+-
+chrono
+-
+algorithm
+-
+array
+-
+atomic
+-
+random
+-
+
